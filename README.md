@@ -1,2 +1,2 @@
 # hello-world
-es un repositorio de prueba, para aprender a manejar el github
+esta es la segunda prueba porque la primera no me ha salido muy bien
