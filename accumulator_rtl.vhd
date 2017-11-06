@@ -1,5 +1,6 @@
 -- VHDL Entity trapezoidal.accumulator.symbol
 --MODIFICADO EN EL REMOTO
+--MODIFICADO EN EL REMOTO 2
 -- Created:
 --          by - Juan Lanchares.UNKNOWN (LANCHARES)
 --          at - 11:34:45 27/07/2016
