@@ -1,5 +1,5 @@
 -- VHDL Entity trapezoidal.accumulator.symbol
---
+--MODIFICADO EN EL REMOTO
 -- Created:
 --          by - Juan Lanchares.UNKNOWN (LANCHARES)
 --          at - 11:34:45 27/07/2016
